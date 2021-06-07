@@ -8,7 +8,7 @@ def turn(board)
       break
     end
   end
-    
+
   move(board, index, "X")
   display_board(board)
 end
